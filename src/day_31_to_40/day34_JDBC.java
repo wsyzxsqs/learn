@@ -1,0 +1,17 @@
+package day_31_to_40;
+
+
+
+public class day34_JDBC {
+	
+	/**
+	 * 
+	 * JDBC
+	 * java连接数据库，需要使用JDBC驱动;
+	 * Java Data Bate Connectivity,java
+	 * Connectivity 连通性;
+	 */
+	
+	
+
+}
